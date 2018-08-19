@@ -1,0 +1,7 @@
+c:\users\admin\documents\visual studio 2017\Projects\TaskManagerPortal\TaskManagerPortal.DL\bin\Debug\netstandard1.4\TaskManager.DL.deps.json
+c:\users\admin\documents\visual studio 2017\Projects\TaskManagerPortal\TaskManagerPortal.DL\bin\Debug\netstandard1.4\TaskManager.DL.dll
+c:\users\admin\documents\visual studio 2017\Projects\TaskManagerPortal\TaskManagerPortal.DL\bin\Debug\netstandard1.4\TaskManager.DL.pdb
+c:\users\admin\documents\visual studio 2017\Projects\TaskManagerPortal\TaskManagerPortal.DL\obj\Debug\netstandard1.4\TaskManager.DL.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\TaskManagerPortal\TaskManagerPortal.DL\obj\Debug\netstandard1.4\TaskManager.DL.AssemblyInfo.cs
+c:\users\admin\documents\visual studio 2017\Projects\TaskManagerPortal\TaskManagerPortal.DL\obj\Debug\netstandard1.4\TaskManager.DL.dll
+c:\users\admin\documents\visual studio 2017\Projects\TaskManagerPortal\TaskManagerPortal.DL\obj\Debug\netstandard1.4\TaskManager.DL.pdb

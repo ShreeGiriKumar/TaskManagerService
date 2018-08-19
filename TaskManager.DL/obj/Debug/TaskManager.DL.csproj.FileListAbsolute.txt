@@ -1,0 +1,10 @@
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerPortal\TaskManager.DL\bin\Debug\TaskManager.DL.dll.config
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerPortal\TaskManager.DL\bin\Debug\TaskManager.DL.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerPortal\TaskManager.DL\bin\Debug\TaskManager.DL.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerPortal\TaskManager.DL\bin\Debug\EntityFramework.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerPortal\TaskManager.DL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerPortal\TaskManager.DL\bin\Debug\EntityFramework.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerPortal\TaskManager.DL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerPortal\TaskManager.DL\obj\Debug\TaskManager.DL.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerPortal\TaskManager.DL\obj\Debug\TaskManager.DL.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerPortal\TaskManager.DL\obj\Debug\TaskManager.DL.csprojResolveAssemblyReference.cache

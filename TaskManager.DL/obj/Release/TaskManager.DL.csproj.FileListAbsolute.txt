@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\TaskManagerPortal\TaskManager.DL\bin\Release\TaskManager.DL.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\TaskManagerPortal\TaskManager.DL\bin\Release\TaskManager.DL.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\TaskManagerPortal\TaskManager.DL\obj\Release\TaskManager.DL.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\TaskManagerPortal\TaskManager.DL\obj\Release\TaskManager.DL.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerPortal\TaskManager.DL\bin\Release\TaskManager.DL.dll.config
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerPortal\TaskManager.DL\bin\Release\EntityFramework.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerPortal\TaskManager.DL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerPortal\TaskManager.DL\bin\Release\EntityFramework.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerPortal\TaskManager.DL\bin\Release\EntityFramework.SqlServer.xml
