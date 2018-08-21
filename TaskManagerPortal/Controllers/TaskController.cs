@@ -53,7 +53,6 @@ namespace TaskManagerPortal.Controllers
             }
         }
 
-
         // POST api/<controller>        
         /// <summary>
         /// To Add a new Task
