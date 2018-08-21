@@ -14,12 +14,11 @@ namespace TaskManagerPortal
             // Web API configuration and services
 
             // Web API routes
-            config.MapHttpAttributeRoutes();            
-
-            var enableCorsAttribute = new EnableCorsAttribute("*",
-                          "Origin, Content-Type, Accept",
-                          "GET, PUT, POST, DELETE, OPTIONS");
-            config.EnableCors(enableCorsAttribute);
+            config.MapHttpAttributeRoutes();
+            
+            var cors = new EnableCorsAttribute(origins: "http://localhost:7700", headers:"*", methods:"*");
+            cors.SupportsCredentials = true;
+            config.EnableCors(cors);
 
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",

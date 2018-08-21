@@ -8,7 +8,7 @@ using TaskManager.DL.DO;
 using TaskManagerPortal.BL;
 
 namespace TaskManagerPortal.Controllers
-{
+{  
     public class TaskController : ApiController
     {
         ITaskManagerBL taskManagerBL = null;
@@ -53,6 +53,7 @@ namespace TaskManagerPortal.Controllers
             }
         }
 
+
         // POST api/<controller>        
         /// <summary>
         /// To Add a new Task
@@ -70,7 +71,7 @@ namespace TaskManagerPortal.Controllers
                 return Request.CreateResponse(HttpStatusCode.InternalServerError, ex);
             }
         }
-
+                
         // PUT api/<controller>/5
         /// <summary>
         /// To Update an existing Task

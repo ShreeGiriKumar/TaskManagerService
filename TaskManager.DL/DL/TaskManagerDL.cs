@@ -18,6 +18,7 @@ namespace TaskManager.DL.DL
         public List<TaskData> GetAllTasks()
         {
             return taskManagerContext.TaskDatas.ToList();
+
         }
 
         /// <summary>
